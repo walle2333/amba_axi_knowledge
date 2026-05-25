@@ -4,7 +4,7 @@
 
 内容以中文为主，关键术语保留英文，例如 `VALID/READY`、`burst`、`outstanding transaction`、`ordering`、`AXI4-Lite`、`AXI4-Stream`、`ACE`、`CHI`。
 
-GitHub 仓库：<https://github.com/walle2333/amba-axi-knowledge>
+GitHub 仓库：<https://github.com/walle2333/amba_axi_knowledge>
 
 ## 当前状态
 
